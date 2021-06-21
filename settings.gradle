@@ -1,0 +1,3 @@
+rootProject.name = "ProjektPSAMI"
+include ':app'
+include ':openCV'
